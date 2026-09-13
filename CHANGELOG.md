@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented here.
 
+## 0.1.2 - 2026-09-13
+
+### Changed
+
+- Updated the package author email address.
+
 ## 0.1.1 - 2026-09-13
 
 ### Fixed
