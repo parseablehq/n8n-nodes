@@ -1,0 +1,7 @@
+.claude/
+.firecrawl/
+coverage/
+dist/
+node_modules/
+*.tgz
+AGENTS.md
