@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-parseable",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for querying and ingesting data with Parseable",
 	"license": "AGPL-3.0-only",
 	"keywords": [
@@ -16,11 +16,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/parseablehq/n8n-nodes-parseable.git"
+		"url": "https://github.com/parseablehq/n8n-nodes.git"
 	},
 	"homepage": "https://www.parseable.com/docs",
 	"bugs": {
-		"url": "https://github.com/parseablehq/n8n-nodes-parseable/issues"
+		"url": "https://github.com/parseablehq/n8n-nodes/issues"
 	},
 	"engines": {
 		"node": ">=22.21.0"
