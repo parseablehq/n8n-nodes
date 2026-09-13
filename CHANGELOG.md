@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented here.
 
+## Unreleased
+
+### Changed
+
+- Changed the project license from AGPL-3.0-only to MIT.
+
 ## 0.1.2 - 2026-09-13
 
 ### Changed

@@ -131,4 +131,4 @@ See [SECURITY.md](SECURITY.md).
 
 ## License
 
-[GNU Affero General Public License v3.0](LICENSE)
+[MIT License](LICENSE)
