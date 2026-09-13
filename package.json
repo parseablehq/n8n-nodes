@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-parseable",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "n8n community node for querying and ingesting data with Parseable",
 	"license": "AGPL-3.0-only",
 	"keywords": [
@@ -12,7 +12,7 @@
 	],
 	"author": {
 		"name": "Parseable",
-		"email": "hello@parseable.com"
+		"email": "hi@parseable.com"
 	},
 	"repository": {
 		"type": "git",
