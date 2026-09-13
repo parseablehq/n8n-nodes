@@ -1,0 +1,10 @@
+{
+	"node": "n8n-nodes-parseable.parseable",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Data & Storage"],
+	"resources": {
+		"credentialDocumentation": [{ "url": "https://www.parseable.com/docs/user-guide/api-keys" }],
+		"primaryDocumentation": [{ "url": "https://www.parseable.com/docs/api" }]
+	}
+}
