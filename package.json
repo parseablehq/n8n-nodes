@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-parseable",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for querying and ingesting data with Parseable",
 	"license": "AGPL-3.0-only",
 	"keywords": [
