@@ -127,7 +127,7 @@ Run `npm run dev` to test node in local n8n.
 
 ## Release
 
-Releases must be published by included GitHub Actions workflow with npm provenance. Configure npm Trusted Publishing for repository `parseablehq/n8n-nodes-parseable` and workflow `publish.yml`, then push a version tag created by `npm run release`.
+Releases must be published by included GitHub Actions workflow with npm provenance. Configure npm Trusted Publishing for repository `parseablehq/n8n-nodes` and workflow `publish.yml`, then push a version tag created by `npm run release`.
 
 ## Security
 
